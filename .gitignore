@@ -1,0 +1,15 @@
+.DS_Store
+/obj
+/bin
+/appsettings.json
+/appsettings.Development.json
+/appsettings.Production.json
+
+/ui/node_modules
+/ui/package-lock.json
+/ui/public/config.json
+
+/wwwroot/UploadedFiles/
+/wwwroot/dist
+# Visual Studio cache/options directory
+.vs/
